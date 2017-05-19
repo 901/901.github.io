@@ -1,3 +1,3 @@
-# 901.github.io
-Personal Website
+
+# My Personal Website
 [Check it out!](https://901.github.io)
