@@ -1,0 +1,29 @@
+
+p {
+    color:#FF9382;
+    text-align:center-justified;
+    font-family:Arial
+}
+p.quote {
+    color:"blue";
+}
+#hello-word {
+    font-size:400%;
+}
+hr {
+    max-width:50px;
+    border-style: solid;
+    border-color:#F05f40;
+    border-width:3px;
+}
+h1 {
+    color:#FF4398;
+}
+blockquote {
+    border:1px solid black;
+    padding: 10px;
+    margin:10px;
+}
+body {
+    background-color:powderblue;
+}
